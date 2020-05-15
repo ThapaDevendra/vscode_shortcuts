@@ -1,2 +1,2 @@
-#VSCode shortcuts
-##For windows
+# VSCode shortcuts
+## For windows
