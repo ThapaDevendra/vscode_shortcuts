@@ -80,5 +80,3 @@
 ### Go to Entity (Functions, vars, etc)
 	Ctrl+Shift+O
 
-
-This is check from my desktop
