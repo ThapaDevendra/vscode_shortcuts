@@ -79,4 +79,3 @@
 
 ### Go to Entity (Functions, vars, etc)
 	Ctrl+Shift+O
-
